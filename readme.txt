@@ -3,4 +3,4 @@ created checkout branch
 cloned to my repo
 branch2 exp
 commit2 from my repo
-from branch3
+commit3 from my repo branch3
